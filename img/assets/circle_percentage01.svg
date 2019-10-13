@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="shapes" transform="translate(-1400 -2673)">
+    <path id="base" d="M1460,2793a59.811,59.811,0,1,1,23.355-4.715A59.627,59.627,0,0,1,1460,2793Zm0-117a57,57,0,1,0,57,57A57.065,57.065,0,0,0,1460,2676Z" fill="#ebebeb"/>
+    <path id="fiilled" d="M1403,2733h-3a60,60,0,1,1,120,0h-3a57,57,0,1,0-114,0Z" fill="#00a99d"/>
+  </g>
+</svg>

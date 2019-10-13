@@ -1,0 +1,197 @@
+/*
+komentaras
+*/
+*{
+	font-family: 'Raleway', sans-serif;
+
+}
+
+body{
+	background-color: #f9f9f9;
+}
+
+header div.col-12 p img{
+	width: 60px;
+}
+
+img{
+	max-width: 100%;
+}
+.fas, .far{
+	font-size: 30px;
+}
+div.rounded-circle{
+	line-height: 115px;
+	width: 100px;
+	height: 100px;
+}
+p.text-uppercase{
+	font-weight: 500;
+}
+
+.iconInbetween{
+	top:-25px;
+	z-index: 1000;
+}
+#tabletsBlock > img{
+	width: 100%;
+	bottom:0;
+}
+
+
+.skillPercentageWheels>:nth-child(1) >p:first-child{
+	background: url('../img/assets/circle_percentage06.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	background-size: contain;
+}
+
+.skillPercentageWheels>:nth-child(2) >p:first-child{
+	background: url('../img/assets/circle_percentage05.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	background-size: contain;
+}
+
+.skillPercentageWheels>:nth-child(3) >p:first-child{
+	background: url('../img/assets/circle_percentage04.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	background-size: contain;
+}
+
+.skillPercentageWheels>:nth-child(4) >p:first-child{
+	background: url('../img/assets/circle_percentage03.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	background-size: contain;
+}
+
+.skillPercentageWheels>:nth-child(5) >p:first-child{
+	background: url('../img/assets/circle_percentage02.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	background-size: contain;
+}
+
+.skillPercentageWheels>:nth-child(6) >p:first-child{
+	background: url('../img/assets/circle_percentage01.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-clip: border-box;
+	background-size: contain;
+}
+
+.smallMargins{
+	margin:0.01rem;
+}
+
+#sampleWorks div.row{
+	height: 125px;
+}
+
+
+.borderCard > .border{
+	border:20px solid #f9f9f9!important;
+}
+
+hr {
+  border-top: 1px solid #dee2e6;
+}
+
+#nameTag{
+	top:-1rem;
+}
+
+div.row div.d-flex > img{
+	width: 100%;
+}
+
+#nameTag span.rounded{
+	white-space: pre;
+}
+
+.nameTag{
+	top:-1rem;
+}
+.nameTag span.rounded{
+	white-space: pre;
+}
+
+.pb-6{
+	padding-bottom:4rem!important;
+}
+.py-7{
+	padding-bottom:6rem!important;
+	padding-top:6rem!important;
+}
+
+
+.rounded-button{
+	background-color: blue;
+}
+
+.carousel-control-prev-icon{
+	background-image: url('../img/elegantFont/arrow_triangle-left.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 25px;
+}
+
+.carousel-control-next-icon{
+	background-image: url('../img/elegantFont/arrow_triangle-right.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 25px;
+}
+
+.whiteIcon{
+	fill:currentColor;
+}
+
+div#socialMedia img{
+	height: 30px;
+	padding: 6px
+}
+//failinu su buttonais ir hoveriais... palieku su tsg bg-newBlue mygtukus kolkas.
+
+.btn-newBlue:hover{
+    color: #fff;
+    background-color: #00A99D;
+    border-color: #00A99D;
+}
+
+.btn-outline-newBlue:hover {
+    color: #fff;
+    background-color: #00A99D;
+    border-color: #00A99D;
+}
+.text-newBlue{
+
+    color: #00A99D!important;
+
+}
+.bg-newBlue{
+    background-color: #00A99D!important;
+}
+
+.bg-newGray{
+	background-color: #8a8a8a!important;
+}
+.bg-newDark{
+	background-color: #383838!important;
+}
+
+.btn img{
+	width: 20px;
+}
+nav hr{
+	border-top: 1px solid #000000;
+}
